@@ -4,7 +4,7 @@
 2. npm install
 3. npm start
 
-Welcome to my **Full Stack Project** and particularly to the back-end Component of it!
+Welcome to my **Full Stack Project** and particularly to the **back-end** component of it!
 
 This particular component used utilized **Node.js, Express, Knex.js (between server and database), PostgreSQL (database), Clarifai API** and deployed on **Heroku**. If you want to see the front-end, check out this link https://github.com/SandipanMondal123/face-recognition-website .
 
