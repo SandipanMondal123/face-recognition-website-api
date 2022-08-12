@@ -1,4 +1,4 @@
-# face-recognition-website-api
+# face-recognition-website-api: Backend component
 
 1. cd into the project
 2. npm install
