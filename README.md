@@ -4,7 +4,7 @@
 2. npm install
 3. npm start
 
-This is the back-end component which utilized **Node.js, Express, Knex.js, PostgreSQL (database), Clarifai API** and deployed on **Heroku**. If you want to see the backend, check out this link https://github.com/SandipanMondal123/face-recognition-website-api .
+This is the back-end component which utilized **Node.js, Express, Knex.js (between server and database), PostgreSQL (database), Clarifai API** and deployed on **Heroku**. If you want to see the front-end, check out this link https://github.com/SandipanMondal123/face-recognition-website-api .
 
 Enter your **own Clarifai API** when in use.
 
