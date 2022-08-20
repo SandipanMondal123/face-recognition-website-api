@@ -12,6 +12,7 @@ Enter your **own Clarifai API** when in use.
 
 Demo: https://face-recognition-website-sm.herokuapp.com/
 
+This is one of the Capstone Projects from ZTM Academy.
 
 ![Screen Shot 2022-08-12 at 2 23 43 PM](https://user-images.githubusercontent.com/89411519/184420643-6435216b-db6e-41a3-93a7-72193be61359.png)
 
